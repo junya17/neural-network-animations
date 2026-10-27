@@ -1,6 +1,8 @@
 
 # Neural Network Animations
 
+![Neural Network Animation](assets/neural-network.gif)
+
 Cinematic neural network visualizations built with Python and Manim.
 
 ## About
